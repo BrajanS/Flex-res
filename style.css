@@ -25,3 +25,9 @@ section+section+section {
 main {
     display: flex;
 }
+
+#aC {
+    display: flex;
+    justify-content: center;
+    margin-top: 196px;
+}
